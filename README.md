@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on putting together beast tech stacks for highly scalable web apps
+- 🌱 I’m currently learning Gcp, Generative AI
+- 👯 I’m looking to collaborate on any project involving Gen AI
+- 🤔 I’m looking for help with learning new things about Gen AI
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a uncertified code enthusiast.
+- 📫 How to reach me: shelbyquiz0@gmail.com
+
